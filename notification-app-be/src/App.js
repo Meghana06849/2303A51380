@@ -1,6 +1,6 @@
 import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import AllNotifications from "./pages/AllNotifications";
+import AllNotifications from "./pages/Notificationcard";
 import PriorityNotifications from "./pages/PriorityNotifications";
 
 function App() {
